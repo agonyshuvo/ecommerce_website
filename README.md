@@ -8,8 +8,11 @@ Type of App : Web App
 <b>Features:</b>
 ---------
 
--Product Showing
-- Product Deatils 
+ - Product Showing
+
+- Products Detail
+
+- Search
 
 - Add to cart
 
@@ -19,11 +22,10 @@ Type of App : Web App
 
 - Order History
 
-- User Shipping Address Settings
-
 - Cash on delivery
 
 - Review product
+
  - Online payment (not available now)
 
 - Help
@@ -40,3 +42,5 @@ how to use : Visit : After buying domain
 
 
 Written language :  HTML, CSS, PHP
+
+Developers: shuvo khan [id:1621172642]
