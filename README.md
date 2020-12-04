@@ -18,7 +18,7 @@ Type of App : Web App
 
 - Buy now
 
-- User login / Registration
+- Sign up / Sign in
 
 - Order History
 
@@ -26,7 +26,6 @@ Type of App : Web App
 
 - Review product
 
- - Online payment (not available now)
 
 - Help
 
