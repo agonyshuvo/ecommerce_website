@@ -42,4 +42,4 @@ how to use : Visit : After buying domain
 
 Written language :  HTML, CSS, PHP
 
-Developers: shuvo khan [id:1621172642]
+<b>Developers: shuvo khan [id:1621172642]</b>
