@@ -36,10 +36,10 @@ Os - any
 
 
 
-how to use : Visit : After buying domain
+<b>how to use : Visit : After buying domain</b>
 
 
 
-Written language :  HTML, CSS, PHP
+ <b>Written language :  HTML, CSS, PHP</b>
 
-<b>Developers: shuvo khan [id:1621172642]</b>
+<b>Developer: shuvo khan [id:1621172642]</b>
