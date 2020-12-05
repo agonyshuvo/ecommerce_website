@@ -18,7 +18,7 @@ Type of App : Web App
 
 - Buy now
 
-- Sign up / Sign in
+- Account (Sign up / Sign in)
 
 - Order History
 
