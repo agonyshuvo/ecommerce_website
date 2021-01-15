@@ -8,6 +8,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>cart</title>
+    <style>
+        body{
+        background-image: url(images/s.jpg);
+        background-repeat: no-repeat;
+        /*background-attachment: fixed;*/
+        background-size: cover;}
+    </style>
+
 </head>
 <body>
    <div class="container">
@@ -28,7 +36,7 @@
                     </thead>
                     <tbody >
                          <?php
-                            $total=0;
+                             $total=0;
                              foreach ($_SESSION['cart'] as $key =>$value)
                              {  
                                 $sr=$key+1;
@@ -48,7 +56,7 @@
                                      </tr>
                                  ";
                              }
-                         ?>
+                         ?>;
                     </tbody>
                 </table>
              

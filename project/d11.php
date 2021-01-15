@@ -9,8 +9,8 @@
 </head>
 <body>
      <div style= "text-align: center;" >
-        <h2> Apple iPhone 12 pro </h5>
-        <img src="images/12pro.jpg" style="height:200px"/> <br/>
+        <h2> Apple iPhone 11 pro </h5>
+        <img src="images/11pro.jpg" style="height:200px"/> <br/>
     </div>
 
     <table>
@@ -191,7 +191,7 @@
             </tr>
             <tr>
                 <td style="background: MediumSeaGreen; text-align: center;font-weight: bold;" rowspan="1">Price</td>
-                <td style="background: MediumSeaGreen;rowspan="1">$ 999.00 / £ 999.00 / ₹ 149,900</td>
+                <td style="background: MediumSeaGreen;rowspan="1">$ 599.00 / € 699.79 / £ 526.00 / ₹ 51,999</td>
             </tr>
         </table>
 

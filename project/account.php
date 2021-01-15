@@ -6,9 +6,13 @@ include ("header.php");
 <head>
   <title> account</title>
 
- <style>
-
-
+  <style>
+       body{
+        background-image: url(images/w.jpg);
+        background-repeat: no-repeat;
+        /*background-attachment: fixed;*/
+        background-size: cover;}
+    
 
 main{
   width: 100%;
